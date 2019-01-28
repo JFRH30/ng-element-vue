@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <h1>Angular test on vue</h1>
     <HelloWorld/>
-    <external-element></external-element>
+    <app-live-chat domain="default" idx_user="1"></app-live-chat>
   </div>
 </template>
 
